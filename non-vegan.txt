@@ -1,0 +1,645 @@
+beef
+meat
+chicken
+pork
+fish
+egg
+milk
+cheese
+butter
+honey
+yogurt
+cream
+paneer
+gelatin
+casein
+lard
+shellfish
+bacon
+salami
+ham
+duck
+goose
+meat
+chicken
+beef
+fish
+dairy
+yogurt
+cheese
+butter
+egg
+pork
+lamb
+bacon
+ham
+salami
+paneer
+seafood
+tuna
+salmon
+shrimp
+crab
+lobster
+octopus
+sardines
+poultry
+game
+steak
+burger
+hot dog
+fried chicken
+chicken nuggets
+kebab
+meatballs
+pepperoni
+bologna
+sour cream
+whipped cream
+custard
+creme fraiche
+milkshake
+gelato
+ice cream
+cheesecake
+clotted cream
+feta cheese
+blue cheese
+ricotta
+cottage cheese
+pudding
+pâté
+chocolate milk
+cheese sauce
+creamy dressing
+hollandaise
+biscuits
+cookies
+cakes
+muffins
+brownies
+pancakes
+waffles
+tarts
+pies
+pastries
+crepes
+quiche
+lasagna
+mac and cheese
+chili
+casserole
+pot pie
+seafood chowder
+clam chowder
+beef stew
+shepherd's pie
+curry
+sushi
+sashimi
+caviar
+fish and chips
+fettuccine alfredo
+tikka masala
+sour cream
+buttermilk
+egg salad
+chicken salad
+cheese sticks
+milk chocolate
+yolk
+hard-boiled eggs
+deviled eggs
+breakfast sausage
+bratwurst
+turkey
+duck
+goose
+rabbit
+venison
+wild game
+processed meats
+canned tuna
+fish oil
+cooking oil
+buttercream
+milk powder
+protein powder
+whey protein
+casein protein
+sodium caseinate
+lactose
+egg whites
+caviar
+chicken broth
+beef broth
+clam juice
+fish sauce
+oyster sauce
+bone broth
+anchovies
+beef jerky
+egg drop soup
+chicken wings
+beef jerky
+fish fillet
+shrimp scampi
+veal
+fish tacos
+cheese quesadilla
+beef brisket
+salmon sashimi
+egg rolls
+clam chowder
+pork belly
+smoked salmon
+buttermilk pancakes
+fried eggs
+bacon bits
+seafood salad
+ranch dressing
+chicken salad
+chicken curry
+clam strips
+lobster roll
+bbq ribs
+grilled chicken
+chicken parmesan
+mayo
+beef stew
+deviled ham
+seafood gumbo
+chicken fettuccine
+egg drop
+cheddar cheese
+provolone
+monterey jack
+mozzarella
+sour cream dip
+caramel
+creme brulee
+beef stroganoff
+pork chops
+turkey bacon
+beef tacos
+fish and grits
+smoked sausage
+chicken alfredo
+salami sandwich
+baked eggs
+fish fry
+pasta carbonara
+fried calamari
+pork rinds
+seafood platter
+cheese curds
+cooking cream
+curry chicken
+crab cakes
+beef kabobs
+turkey sandwich
+chicken pot pie
+cottage pie
+shrimp cocktail
+chicken dumplings
+egg salad sandwich
+gravy
+cream of chicken soup
+baked beans
+squid ink pasta
+beef meatballs
+steak tacos
+fish curry
+cow milk
+paneer
+meat
+chicken
+beef
+fish
+dairy
+yogurt
+cheese
+butter
+egg
+paneer
+cow meat
+goat meat
+goat milk
+pork
+Cow Milk
+Goat Milk
+Buffalo Milk
+Sheep Milk
+Camel Milk
+Yak Milk
+Donkey Milk
+Horse milk
+lamb
+bacon
+Gelatin
+Lard
+Casein
+Whey
+Shellac
+Rennet
+Tallow
+Lanolin
+Beeswax
+Carmine
+Isinglass
+Anchovy Paste
+Cod Liver Oil
+Egg Albumen
+Fish Sauce
+Shrimp Paste
+Bone Char
+Cochineal
+Collagen
+Keratin
+Lactose
+Meat Broth
+Pork Fat
+Suet
+Fish Gelatin
+Chicken Fat
+Beef Broth
+Fish Oil
+Honey
+Pepsin
+Mink Oil
+Spermaceti
+Omega-3 Fatty Acids (from fish)
+Natural Red Dye (from insects)
+Animal-Derived Lecithin
+Chicken Broth
+Bone Broth
+Emu Oil
+Caviar
+Sardine Paste
+Goose Fat
+Crustacean Shell Extracts
+Fish Roe
+Pork Gelatin
+Shrimp Extract
+Squalene (from sharks)
+Butter
+Clotted Cream
+Clarified Butter (Ghee)
+Duck Fat
+Egg Yolk
+Anchovies
+Clam Juice
+Crab Extract
+Lobster Extract
+Octopus Extract
+Squid Ink
+Roe (Fish Eggs)
+Chicken Gelatin
+Lamb Fat
+Meat Stock
+Eel Sauce
+Shellfish Extract
+Fish Stock
+Bacon Grease
+Pork Cracklings
+Veal Stock
+Sausage Casing
+Pancetta
+Prosciutto
+Salami
+Chorizo
+Black Pudding
+Blood Sausage
+Duck Liver (Foie Gras)
+Pâté
+Escargot
+Frog Legs
+Calf’s Liver
+Sweetbreads
+Ox Tongue
+Tripe
+Kidney
+Heart
+Brain
+Chicken Gizzards
+Duck Tongue
+Chicken Feet
+Ham Hock
+Pork Rind
+Rabbit Meat
+Venison
+Wild Boar
+Ostrich Meat
+Quail
+Squab
+Mayonnaise
+Cheese
+Cream Cheese
+Parmesan
+Cheddar
+Mozzarella
+Ricotta
+Brie
+Feta
+Gorgonzola
+Gouda
+Havarti
+Swiss Cheese
+Camembert
+Bleu Cheese
+Asiago
+Colby
+Provolone
+Paneer
+Mascarpone
+Sour Cream
+Whipped Cream
+Heavy Cream
+Butter
+Clarified Butter (Ghee)
+Buttermilk
+Clotted Cream
+Yogurt
+Greek Yogurt
+Kefir
+Custard
+Ice Cream
+Sherbet
+Milk Chocolate
+White Chocolate
+Eggnog
+Hollandaise Sauce
+Tartar Sauce
+Caesar Dressing
+Ranch Dressing
+Thousand Island Dressing
+French Dressing
+Creamy Italian Dressing
+Blue Cheese Dressing
+Bearnaise Sauce
+Alfredo Sauce
+Béchamel Sauce
+Mornay Sauce
+Carbonara Sauce
+Aioli
+Pesto (with Parmesan)
+Meat Sauce
+Cheese Sauce
+Queso
+Nacho Cheese
+Fondue
+Crème Fraîche
+Panna Cotta
+Flan
+Tiramisu (with mascarpone)
+Cheesecake
+Chocolate Mousse (with cream)
+Éclairs (with dairy filling)
+Cream Puffs
+Cannoli (with ricotta filling)
+Custard Tart
+Lemon Meringue Pie
+Pudding (with milk)
+Rice Pudding
+Tapioca Pudding
+Crème Brûlée
+Pastry Cream
+Bavarian Cream
+Butterscotch Pudding
+Toffee (with butter)
+Caramel (with cream)
+Fudge
+Ganache
+Milkshake
+Smoothies (with dairy)
+Cappuccino (with milk)
+Latte (with milk)
+Hot Chocolate (with milk)
+Iced Coffee (with cream)
+Frappuccino (with cream)
+Espresso Con Panna
+Mocha
+Macchiato (with milk foam)
+Protein Shakes (with whey)
+Egg Whites
+Quiche
+Omelette
+Scrambled Eggs
+Poached Eggs
+Sunny Side Up Eggs
+Deviled Eggs
+Egg Salad
+Custard Pie
+Bread Pudding
+Yorkshire Pudding
+Duck Meat
+Turkey Giblets
+Bison Meat
+Elk Meat
+ham
+salami
+seafood
+tuna
+salmon
+shrimp
+crab
+lobster
+octopus
+sardines
+poultry
+game
+steak
+burger
+hot dog
+fried chicken
+chicken nuggets
+kebab
+meatballs
+pepperoni
+bologna
+sour cream
+whipped cream
+custard
+creme fraiche
+milkshake
+gelato
+ice cream
+cheesecake
+clotted cream
+feta cheese
+blue cheese
+ricotta
+cottage cheese
+pudding
+pâté
+chocolate milk
+cheese sauce
+creamy dressing
+hollandaise
+biscuits
+cookies
+cakes
+muffins
+brownies
+pancakes
+waffles
+tarts
+pies
+pastries
+crepes
+quiche
+lasagna
+mac and cheese
+chili
+casserole
+pot pie
+seafood chowder
+clam chowder
+beef stew
+shepherd's pie
+curry
+sushi
+sashimi
+caviar
+fish and chips
+fettuccine alfredo
+tikka masala
+sour cream
+buttermilk
+egg salad
+chicken salad
+cheese sticks
+milk chocolate
+yolk
+hard-boiled eggs
+deviled eggs
+breakfast sausage
+bratwurst
+turkey
+duck
+goose
+rabbit
+venison
+wild game
+processed meats
+canned tuna
+fish oil
+cooking oil
+buttercream
+milk powder
+protein powder
+whey protein
+casein protein
+sodium caseinate
+lactose
+egg whites
+caviar
+chicken broth
+beef broth
+clam juice
+fish sauce
+oyster sauce
+bone broth
+anchovies
+beef jerky
+egg drop soup
+chicken wings
+fish fillet
+shrimp scampi
+veal
+fish tacos
+cheese quesadilla
+beef brisket
+salmon sashimi
+egg rolls
+clam chowder
+pork belly
+smoked salmon
+buttermilk pancakes
+fried eggs
+bacon bits
+seafood salad
+ranch dressing
+chicken curry
+clam strips
+lobster roll
+bbq ribs
+grilled chicken
+chicken parmesan
+mayo
+beef stew
+deviled ham
+seafood gumbo
+chicken fettuccine
+egg drop
+cheddar cheese
+provolone
+monterey jack
+mozzarella
+sour cream dip
+caramel
+creme brulee
+beef stroganoff
+pork chops
+turkey bacon
+beef tacos
+grilled shrimp
+Whey protein powder
+Casein protein
+Cow's milk
+Goat cheese
+Feta cheese
+Parmesan cheese
+Mozzarella cheese
+Eggs
+Honey
+Gelatin
+Fish sauce
+Anchovies
+Chicken broth
+Beef broth
+Cream (heavy cream, sour cream)
+Butter
+Lard
+Bacon bits
+Sausage
+Ham
+Grilled chicken
+Salmon
+Tuna
+Shrimp
+Crab meat
+Lobster
+Duck
+Venison
+Caviar
+Quail eggs
+Milk chocolate
+Yogurt (dairy-based)
+Ice cream (dairy-based)
+Buttermilk
+Custard
+Pâté
+Bangers (pork sausages)
+Beef jerky
+Chicken nuggets
+Corned beef
+Clams
+Mussels
+Octopus
+Rennet (used in cheese-making)
+Pancetta
+Prosciutto
+Sriracha sauce (with anchovies)
+Worcestershire sauce (with anchovies)
+Marshmallows (with gelatin)
+Bakery items (made with eggs and dairy)
+Greek yogurt
+grilled chicken
+eggs
+parmesan cheese
+protein
+honey
+protein powder
+yogurt
+Grilled chicken strips
